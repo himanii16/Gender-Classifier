@@ -10,7 +10,7 @@ OUTPUT:
 Python
 
 # Libraries and machine learning frameworks used :
-openCV-python, keras, cvlib, numpy, os
+opencv-python, keras, cvlib, numpy, os
 
 # Training:
 The program is trained using many images provided by the dataset and then using pre-defined libraries of python such as keras and cvlib, we predicted the gender of the image given.
